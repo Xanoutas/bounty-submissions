@@ -1,0 +1,12 @@
+{
+  "title": "\ud83d\udd14 Weekly Covered Yield Update\n\nOpenCover\n\ud83d\udee1\ufe0f Protocol Cover is now available for Hybra Finance, the p",
+  "url": "https://warpcast.com/~/conversations/0xd5b3388f29c6ff9887bb775da4d67011fe29a42b",
+  "reward": 200.0,
+  "audit": {
+    "approved": true,
+    "score": 95,
+    "reason": "The content is relevant, well-structured, and provides useful information about OpenCover's services and the covered protocols. It also mentions an ongoing audit contest, which adds value to the update.",
+    "improvements": "Consider adding more details about the benefits of OpenCover for Hybra Finance users and how it enhances the overall security and reliability of the platform. Additionally, including links to the protocols mentioned could make the update more interactive and easier to follow."
+  },
+  "work": "\ud83d\udd14 Weekly Covered Yield Update\n\nOpenCover\n\ud83d\udee1\ufe0f Protocol Cover is now available for Hybra Finance, the public liquidity layer on @hyperliquidx.\n\ud83d\udee1\ufe0f Our audit contest with @sherlockdefi is live.\n\nCovered protocols\n\ud83d\udd39 @superform is allocating 10,000,000 UP rewards to depositors in SuperVaults v2.\n\ud83d\udd39 Dolomite hit a new ATH of $200m in total borrows.\n\ud83d\udd39 Boosted @morpho rewards are available for the @moonwelldefi Ecosystem USDC Vault on @base.base.eth.\n\ud83d\udd39 @0xfluid announced the $200,000 USDC Bug bounty for Fluid DEX v2 in collaboration with @sherlockdefi.\n\ud83d\udd39 @euler is now live on @hyperliquidx, operated by HypurrFi."
+}
